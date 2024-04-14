@@ -38,10 +38,7 @@ void mkad()
     
     scanf("%d %d", &v, &t);
     printf("%d\n", (109 + t * v % 109) % 109);
-    
-    return 0;
 }
-
 
 // https://informatics.msk.ru/mod/statements/view.php?id=2296&chapterid=2947#1
 void clock1()
