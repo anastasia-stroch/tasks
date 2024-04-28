@@ -35,7 +35,7 @@ void divider()
 }
 
 // https://informatics.msk.ru/mod/statements/view.php?id=249&chapterid=3059#1
-// void degree()
+void degree()
 {
     int N;
     int number = 2;
@@ -54,7 +54,7 @@ void divider()
 }
 
 // https://informatics.msk.ru/mod/statements/view.php?id=249&chapterid=3060#1
-int main()
+void equal_degree()
 {
     int N;
     int degree;
